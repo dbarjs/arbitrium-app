@@ -1,0 +1,19 @@
+{
+  "name": "arbitrium-app",
+  "version": "1.0.0",
+  "description": "matrix decision app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbarjs/arbitrium-app.git"
+  },
+  "author": "Eduardo Barros",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dbarjs/arbitrium-app/issues"
+  },
+  "homepage": "https://github.com/dbarjs/arbitrium-app#readme"
+}
